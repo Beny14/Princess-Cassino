@@ -1,0 +1,124 @@
+.container-fluid{
+    background-color: #212121;
+}
+
+.ruby-bg{
+    height: 100vh;
+    background-image: url('include/Ruby-bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+}
+
+.runde{
+    margin-top: 140px;
+    font-size: 50px;
+    font-weight: 800;
+    color: white;
+}
+
+.depunere{
+    font-weight: 600;
+    color: white;
+}
+
+.plus-icon i{
+    color: #ae7d17;
+}
+
+.castiga{
+    font-size: 50px;
+    font-weight: 800;
+    color: #ae7d17;
+}
+
+.premii{
+    font-weight: 600;
+    color: white;
+}
+
+.inscrie{
+    margin-top: 30px;
+    padding: 20px;
+    background-color: #ae7d17;
+    border: none;
+    border-radius: 50px;
+    font-weight: 600;
+    color: white;
+}
+
+.box-1{
+    background-color: #212121;
+    padding-top: 60px;
+    text-align: center;
+}
+
+.col1{
+    margin-top: 20px;
+    margin-left: 270px;
+}
+
+.col2{
+    margin-top: 20px;
+    margin-left: 230px;
+}
+
+.col3{
+    margin-top: 20px;
+    margin-left: 255px;
+}
+
+.clock{
+    margin-top: 30px;
+    height: 100vh;
+    background-image: url('include/clock.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.rapid{
+    color: white;
+    margin-left: 160px;
+    margin-top: 440px;
+}
+
+.sigur{
+    font-size: 60px;
+    font-weight: 800;
+}
+
+.depune{
+    padding: 10px 15px;
+    background-color: #ae7d17;
+    border: none;
+    border-radius: 50px;
+    font-weight: 600;
+    color: white;
+}
+
+.rotii{
+    color: #ae7d17;
+}
+
+.princess{
+    color: white;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 50px;
+}
+
+.imguri{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.descopera{
+    padding: 20px;
+    background-color: #ae7d17;
+    border: none;
+    border-radius: 50px;
+    font-weight: 600;
+    color: white;
+    margin-left: 41%;
+    margin-bottom: 40px;
+}
